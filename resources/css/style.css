@@ -11,7 +11,8 @@ h2 {
 	font-size: 42px;
 	color: white;
 }
-a#toplink {
+a.link {
+	font-family: Verdana;
 	color: aquamarine;
 	font-weight: 16px;
 	text-decoration: underline;
@@ -29,5 +30,13 @@ body {
 p#comment {
 	font-family: Verdana;
 	font-size: 21px;
+	color: gray;
+}
+.smartphone {
+	padding-top: 20px;
+}
+h3#footer {
+	font-family: Verdana;
+	text-align: right;
 	color: gray;
 }
